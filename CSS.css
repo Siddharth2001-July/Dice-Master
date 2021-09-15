@@ -1,0 +1,34 @@
+body{
+    background-color: antiquewhite;
+}
+.stats{
+    font-size: 3.5rem;
+    color: yellow;
+    text-shadow: 0 0 10px gray, 0 0 1px gray;
+    display: none;
+}
+.orange{
+    color: orange;
+}
+#heading{
+    font-size: 4rem;
+    /* margin: 5rem; */
+    margin-top: 0;
+    color: rgb(170, 162, 162);
+}
+.player{
+    font-size: 2rem;
+    color: rgb(81, 87, 87);
+}
+.dice{
+    display: inline-block;
+    margin: 0rem 6rem;
+}
+.btn{
+    padding: 4%;
+    margin-top: 2rem;
+    background-color: rgb(63, 235, 57);
+    font-size: 3rem;
+    color: antiquewhite;
+    border-radius: 20%;
+}
